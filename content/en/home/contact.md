@@ -9,13 +9,13 @@ title = "Contact me"
 # standard forms.
 #
 # Form handler
-# action = "/contact_handler.php"
+ action = "https://formspree.io/f/mknpeedg"
 # Form submit method
-# method = "GET" # Default is POST
+ method = "POST" # Default is POST
 
 # For Netlify form
 #
-netlify = true
+# netlify = true
 
 # Add a contact via email button if your email
 # is configured in the config file of your website.
@@ -55,5 +55,5 @@ required = true
 
 +++
 
-Need help to open a fast-food ?
-Let’s talk about it !
+Need help or want to hire me ?
+Let’s talk about it ! You can call me on my number +91 85728 96685 or can mail me as well.

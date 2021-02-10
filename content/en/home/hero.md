@@ -7,7 +7,7 @@ weight = 10
 # hidden = true
 
 # Hero image (optional). Enter filename of an image in the `static/` folder.
-hero_media = "/img/portrait.jpg"
+hero_media = "/img/port.jpg"
 
 # Buttons
 # Add as much button as you want
@@ -25,7 +25,8 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# A theme to **express** your ideas.
+"Future can be read and changed with intuition. Intuition is nothing but the foresight of the brain going through future unconsciously. Like a butterfly in the chous theory changes the timeline ultimately changing the worldline through infinite wormholes in the space. The human brain is capable of changing the course of time by creating its customise wormhole using and regulating the potential difference inside neurons"
+# Hey! I am **Chinuon** aka Chaitanya.
 
-Pico is a minimalist, readable, responsive, light and beautiful Hugo theme.
+I solve daily problems using abstraction and decomposition. I am a **Game / Level Designer** and an Unreal Engine developer.
 
